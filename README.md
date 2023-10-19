@@ -7,8 +7,8 @@ I specialize in developing immersive, user-centered applications that captivate 
 I oversee the the strategic direction of a dynamic software firm that specializes in product development and SaaS services.
 
 <a href="https://wakatime.com/@alaminjwel">
-  <img width="60%" height="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=alaminjwel&layput=compact" />
+  <img width="60%" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=alaminjwel&layput=compact" />
 </a>
 <a href="https://github.com/alaminjwel">
-  <img width="38%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminjwel&layout=compact&langs_count=6"/>
+  <img width="38%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminjwel&layout=donut&langs_count=8"/>
 </a>
