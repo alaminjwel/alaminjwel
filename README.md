@@ -1,5 +1,4 @@
 ### It's Al Amin Jwel 👋 
-<img src="https://wakatime.com/badge/user/018b45d1-6dc6-4494-8c77-46fb0309d6a6.svg">
 
 I create code that is simple, elegant, and easy to understand. I'm passionate about innovation and making a positive impact, which drives me to continually improve my skills.
 
