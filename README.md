@@ -13,4 +13,4 @@ I oversee the the strategic direction of a dynamic software firm that specialize
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminjwel&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alaminjwel)](https://github.com/anuraghazra/github-readme-stats)
+[![alaminjwel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alaminjwel&layput=compact&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
