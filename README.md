@@ -6,5 +6,5 @@ I specialize in developing immersive, user-centered applications that captivate 
 
 I oversee the the strategic direction of a dynamic software firm that specializes in product development and SaaS services.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminjwel&layout=donut)](https://github.com/alaminjwel/github-readme-stats)
 
