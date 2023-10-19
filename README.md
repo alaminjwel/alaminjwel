@@ -8,4 +8,4 @@ I oversee the the strategic direction of a dynamic software firm that specialize
 
 Whether working independently or as part of a team, I bring passion and innovation to every project.
 
-[![alaminjwel's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminjwel)](https://github.com/alaminjwel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminjwel&layout=donut)](https://github.com/alaminjwel/github-readme-stats)
