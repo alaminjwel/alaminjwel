@@ -12,4 +12,3 @@ I oversee the the strategic direction of a dynamic software firm that specialize
 <a href="https://github.com/alaminjwel/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminjwel&layout=compact&langs_count=8&card_width=320" />
 </a>
-[![wakatime](https://wakatime.com/badge/user/018b45d1-6dc6-4494-8c77-46fb0309d6a6.svg)](https://wakatime.com/@018b45d1-6dc6-4494-8c77-46fb0309d6a6)
