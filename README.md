@@ -8,9 +8,5 @@ I oversee the the strategic direction of a dynamic software firm that specialize
 
 Whether working independently or as part of a team, I bring passion and innovation to every project.
 
-<div>
-  <div style="float:left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminjwel&layout=donut)](https://github.com/alaminjwel/github-readme-stats)</div>
-  <div style="float:right">[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)</div>
-</div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminjwel&layout=donut)](https://github.com/alaminjwel/github-readme-stats)
 
