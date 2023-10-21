@@ -10,5 +10,5 @@ I oversee the the strategic direction of a dynamic software firm that specialize
   <img width="60%" height="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=alaminjwel&layput=compact" />
 </a>
 <a href="https://github.com/alaminjwel">
-  <img width="38%" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminjwel&layout=compact&langs_count=8"/>
+  <img width="38%" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminjwel&layout=compact&langs_count=10"/>
 </a>
