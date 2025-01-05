@@ -7,11 +7,8 @@ I specialize in developing immersive, user-centered applications that captivate 
 I oversee the the strategic direction of a dynamic software firm that specializes in product development and SaaS services.
 
 <a href="https://github.com/alaminjwel">
-  <img width="100%" height="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=alaminjwel&layput=compact" />
+  <img width="60%" height="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=alaminjwel&layput=compact" />
 </a>
 <a href="https://github.com/alaminjwel">
-  <img width="60%" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminjwel&layout=compact&langs_count=12"/>
+  <img width="38%" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminjwel&layout=compact&langs_count=12"/>
 </a>
-
-<div style="width:38%" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alaminjwel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/alaminjwel?trk=profile-badge">MD AL AMIN JWEL</a></div>
-              
